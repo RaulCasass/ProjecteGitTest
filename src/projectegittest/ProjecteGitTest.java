@@ -16,6 +16,7 @@ public class ProjecteGitTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Practica entornos git con netbeans!");
+        System.out.println("canvi local");
     }
     
 }
